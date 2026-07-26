@@ -1,0 +1,6 @@
+{
+  "name": "Razorpay Refund Intelligence",
+  "description": "AI-powered decision intelligence for faster, fairer refunds with automated customer, order, policy, and business impact analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
